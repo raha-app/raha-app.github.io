@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raha-app.github.io/sitemap.xml
