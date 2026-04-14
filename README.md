@@ -70,4 +70,3 @@ hugo server -D
 ## Notes
 
 - Main site config is under `config/_default/`.
-- The root `hugo.toml` is present, but project-specific settings are in `config/_default/hugo.toml`.
